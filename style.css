@@ -1,0 +1,16 @@
+body{
+
+}
+
+header{
+    font-size: 22px;
+    text-align: center;
+    color: darkblue;
+    font-family: Verdana;
+}
+
+main{
+    line-height: 1.5;
+    text-align: center;
+    background-color: azure;
+}
