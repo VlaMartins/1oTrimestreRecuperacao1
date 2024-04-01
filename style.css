@@ -5,9 +5,10 @@ body{
 header{
     font-size: 14px;
     text-align: center;
-    color: darkblue;
+    color: rgb(45, 44, 44);
     font-family: Verdana;
     line-height: 1.0;
+    background-color: cornsilk;
 }
 
 main{
