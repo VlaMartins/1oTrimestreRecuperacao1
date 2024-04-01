@@ -1,4 +1,4 @@
-# 1oTrimestre - Recuperação 1
+# Recuperação 1 - 1º Trimestre
 ## Estudante: 
 ### Componente: Programação Front-end
 #### Profª: Vladismara 
