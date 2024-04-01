@@ -23,7 +23,7 @@ li{
     font-family: Arial;
     text-align: center;
     list-style-type: none;
-    display: inline;
+   /* display: inline;*/
 }
 
 a{
