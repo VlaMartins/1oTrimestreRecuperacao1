@@ -3,10 +3,10 @@ body{
 }
 
 header{
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     color: rgb(45, 44, 44);
-    font-family: Verdana;
+    font-family: Calibri;
     line-height: 1.0;
     background-color: cornsilk;
     font-weight: 400;
@@ -20,7 +20,7 @@ main{
 
 li{
     font-size: 20px;
-    font-family: Arial;
+    font-family: Verdana;
     text-align: center;
     list-style-type: none;
    /* display: inline;*/
@@ -35,4 +35,10 @@ a{
 
 .paragrafo-mapa{
     text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+    font-family: Calibri;
 }
