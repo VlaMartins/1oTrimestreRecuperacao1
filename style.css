@@ -29,6 +29,8 @@ li{
 a{
     text-decoration: none;
     color: black;
+    font-family: Tahoma;
+    font-style: italic;
 }
 
 iframe{
