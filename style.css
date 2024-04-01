@@ -8,7 +8,7 @@ header{
     color: rgb(45, 44, 44);
     font-family: Calibri;
     line-height: 1.0;
-    background-color: cornsilk;
+    background-color: #fbf8ec;
     font-weight: 400;
 }
 
@@ -16,6 +16,7 @@ main{
     line-height: 1.5;
     text-align: center;
     background-color: azure;
+    border: solid gray 2px;
 }
 
 li{
@@ -41,4 +42,6 @@ footer{
     text-align: center;
     font-size: 10px;
     font-family: Calibri;
+    background-color: #fbf8ec;
+
 }
